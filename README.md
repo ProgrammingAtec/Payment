@@ -1,2 +1,2 @@
-# TestTasks-2
+# Payment
 Payment frontend on Vue, vuex, vue-router, webpack
